@@ -85,6 +85,6 @@ This section includes my course notes and recommended online learning resources 
 [线性代数精讲课程 by框框老师](https://www.bilibili.com/video/BV1eY4y1W7Gd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
 [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs)
 * **我的笔记：** <br>
-[线性代数知识点总结](/files/Summary-of-Key-Points-in-Linear-Algebra.pdf)
+[线性代数知识点总结](/files/Summary-of-Key-Points-in-Linear-Algebra.pdf) <br>
 [The-Art-of-Linear-Algebra](/files/The-Art-of-Linear-Algebra-zh-CN.pdf)
 
