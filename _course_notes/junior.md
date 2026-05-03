@@ -1,12 +1,12 @@
 ---
 layout: single 
-title: "大三课程" 
+title: "Junior Year" 
 permalink: /course-notes/junior/ 
 author_profile: true 
 ---
 
 
-这里汇总了我大三期间学习的课程笔记和相关网课资源推荐
+This section includes my course notes and recommended online learning resources from my junior year.
 
 ---
 
@@ -17,11 +17,9 @@ author_profile: true
 
 ### 学习资源
 
-* **推荐教材:** <br>
-
 * **在线课程：** 
 
-* **我的笔记：** 
+* **我的笔记：** [数字信号处理笔记]
 
 ---
 
@@ -34,7 +32,10 @@ author_profile: true
 
 * **在线课程：** 
 
-* **我的笔记：** 
+* **我的笔记：** <br>
+[通信原理笔记] <br>
+[全书题库及新技术考点]<br>
+[midterm cheating sheet] 
 
 ---
 
@@ -46,7 +47,7 @@ author_profile: true
 ### 学习资源
 * **在线课程：** 
 
-* **我的笔记：** 
+* **我的笔记：** [高频电子线路笔记]
   
 ---
 
@@ -58,7 +59,7 @@ author_profile: true
 ### 学习资源
 * **在线课程：** 
 
-* **我的笔记：** 
+* **我的笔记：** [信息论笔记]
 
 ---
 
@@ -70,4 +71,6 @@ author_profile: true
 ### 学习资源
 * **在线课程：** 
 
-* **我的笔记：**
+* **我的笔记：** <br>
+[计网笔记] <br>
+[计网知识点]
