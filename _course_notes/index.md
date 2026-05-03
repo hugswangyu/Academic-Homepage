@@ -16,7 +16,7 @@ Here, I have compiled my study notes and recommended online courses for the foun
         * Discrete Mathematics（离散数学）
         * Fundamentals of Circuit Analysis（电路分析基础）
         * College Physics（大学物理）
-        * Linear Algebra （线性代数）
+        * Linear Algebra（线性代数）
 
 * [**Sophomore Year**]({{ '/course-notes/sophomore/' | relative_url }})
     * **Course List：**
