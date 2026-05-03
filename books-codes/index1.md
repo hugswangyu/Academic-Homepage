@@ -5,7 +5,7 @@ permalink: /books-codes/
 author_profile: true
 ---
 
-这里汇总了一些常见的通信专业相关书籍和源码。
+This section summarizes some commonly used books and source codes related to Communication Engineering.
 
 ---
 
