@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: "My course notes"
+title: "My Course Notes"
 permalink: /course-notes/ 
 author_profile: true 
 ---
