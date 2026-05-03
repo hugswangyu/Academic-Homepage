@@ -5,8 +5,7 @@ permalink: /course-notes/sophomore/
 author_profile: true
 ---
 
-这里汇总了我大二期间学习的课程笔记和相关网课资源推荐。
-
+This section includes my course notes and recommended online learning resources from my sophomore year.
 ---
 
 ## 模拟电子技术 Analog Electronics
