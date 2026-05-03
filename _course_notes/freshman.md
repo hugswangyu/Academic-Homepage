@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: "大一课程" 
+title: "Freshman Year" 
 permalink: /course-notes/freshman/ 
 author_profile: true 
 ---
