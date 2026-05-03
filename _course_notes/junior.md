@@ -19,8 +19,9 @@ This section includes my course notes and recommended online learning resources 
 
 * **在线课程：** 
 
-* **我的笔记：** [数字信号处理笔记]
-
+* **我的笔记：** <br>
+[数字信号处理笔记](/files/Digital-Signal-Processing-Notes.pdf) <br>
+[数字信号处理复习总结](/files/Digital-Signal-Processing-Review-Summary.pdf)
 ---
 
 ## 通信原理（双语版）Principles of Communication, Bilingual Version
@@ -33,9 +34,9 @@ This section includes my course notes and recommended online learning resources 
 * **在线课程：** 
 
 * **我的笔记：** <br>
-[通信原理笔记] <br>
-[全书题库及新技术考点]<br>
-[midterm cheating sheet] 
+[通信原理笔记](/files/Principles-of-Communication-Notes.pdf) <br>
+[全书题库及新技术考点](/files/Question-Bank-and-New-Technology-Topics.pdf)<br>
+[Midterm Cheat Sheet](/files/Midterm-Cheat-Sheet.pdf) 
 
 ---
 
@@ -47,7 +48,7 @@ This section includes my course notes and recommended online learning resources 
 ### 学习资源
 * **在线课程：** 
 
-* **我的笔记：** [高频电子线路笔记]
+* **我的笔记：** [高频电子线路笔记](/files/High-Frequency-Electronic-Circuits-Notes.pdf)
   
 ---
 
@@ -59,7 +60,7 @@ This section includes my course notes and recommended online learning resources 
 ### 学习资源
 * **在线课程：** 
 
-* **我的笔记：** [信息论笔记]
+* **我的笔记：** [信息论笔记](/files/Information-Theory-Notes.pdf)
 
 ---
 
@@ -72,5 +73,5 @@ This section includes my course notes and recommended online learning resources 
 * **在线课程：** 
 
 * **我的笔记：** <br>
-[计网笔记] <br>
-[计网知识点]
+[计网笔记](/files/Data-Communications-and-Computer-Networks-Notes.pdf) <br>
+[计网知识点](/files/Data-Communications-and-Computer-Networks-Key-Points.pdf)
