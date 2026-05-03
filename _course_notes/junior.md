@@ -17,8 +17,9 @@ This section includes my course notes and recommended online learning resources 
 
 ### 学习资源
 
-* **在线课程：** 
-
+* **在线课程：** <br>
+[DSP数字信号处理（超浓缩版 by讲信号与系统的潘老师](https://www.bilibili.com/video/BV127411M7BU/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
+[数字信号处理 2023年秋 by张颢](https://www.bilibili.com/video/BV1B4421U79k/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** <br>
 [数字信号处理笔记](/files/Digital-Signal-Processing-Notes.pdf) <br>
 [数字信号处理复习总结](/files/Digital-Signal-Processing-Review-Summary.pdf)
@@ -31,8 +32,9 @@ This section includes my course notes and recommended online learning resources 
 
 ### 学习资源
 
-* **在线课程：** 
-
+* **在线课程：** <br>
+[通信原理 by张锦皓](https://space.bilibili.com/414621270/lists?sid=390600) <br>
+[通訊系統導論 (通訊原理一) - 108學年度 by陳伯寧](https://ocw.nycu.edu.tw/?course_page=all-course%2Fcollege-of-electrical-and-computer-engineering%2F%E9%80%9A%E8%A8%8A%E7%B3%BB%E7%B5%B1%E5%B0%8E%E8%AB%96-%E9%80%9A%E8%A8%8A%E5%8E%9F%E7%90%86%E4%B8%80-introduction-to-communication-systems-108%E5%AD%B8%E5%B9%B4%E5%BA%A6-%E9%9B%BB%E6%A9%9F)
 * **我的笔记：** <br>
 [通信原理笔记](/files/Principles-of-Communication-Notes.pdf) <br>
 [全书题库及新技术考点](/files/Question-Bank-and-New-Technology-Topics.pdf)<br>
@@ -46,8 +48,7 @@ This section includes my course notes and recommended online learning resources 
 高频电子线路聚焦射频/高频领域，涵盖谐振回路、高频小信号放大器、功率放大器、正弦波振荡器、调制与解调、锁相环等模块，是无线通信、射频电路设计的前置核心课程。
 
 ### 学习资源
-* **在线课程：** 
-
+* **在线课程：** [高频电子线路系列 by helloTong-](https://space.bilibili.com/2117534443?spm_id_from=333.788.upinfo.head.click)
 * **我的笔记：** [高频电子线路笔记](/files/High-Frequency-Electronic-Circuits-Notes.pdf)
   
 ---
@@ -58,8 +59,7 @@ This section includes my course notes and recommended online learning resources 
 信息论以信息度量为核心，包括信源熵、互信息、信道容量、香农定理、信源编码、信道编码基础等内容，从理论层面揭示信息传输与压缩的极限，是通信、编码、人工智能领域的理论基石。
 
 ### 学习资源
-* **在线课程：** 
-
+* **在线课程：** [信息论与编码期末复习](https://www.bilibili.com/video/BV1244y1L7bb/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** [信息论笔记](/files/Information-Theory-Notes.pdf)
 
 ---
@@ -71,7 +71,6 @@ This section includes my course notes and recommended online learning resources 
 
 ### 学习资源
 * **在线课程：** 
-
 * **我的笔记：** <br>
 [计网笔记](/files/Data-Communications-and-Computer-Networks-Notes.pdf) <br>
 [计网知识点](/files/Data-Communications-and-Computer-Networks-Key-Points.pdf)
