@@ -10,8 +10,6 @@ author_profile: true
 
 ---
 
-[**Junior Year（大三）**]({{ '/course-notes/junior/' | relative_url }})
-
 ## 数字信号处理 Digital Signal Processing
 
 ### 概述
