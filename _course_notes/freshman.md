@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-这里汇总了我大一期间学习的课程笔记和相关网课资源推荐
+This section includes my course notes and recommended online learning resources from my freshman year.
 
 ---
 
@@ -74,3 +74,15 @@ author_profile: true
 * **我的笔记：** [大学物理笔记](/files/University-Physics-Notes.pdf)
 
 ---
+
+## 线性代数 College Physics
+
+### 概述
+线性代数是理工科核心基础课程，涵盖矩阵运算、行列式、向量空间、线性方程组、特征值与特征向量、二次型等核心内容，是数字信号处理、通信原理、机器学习等后续专业课程的重要数学支撑，也是工程计算、数据分析的必备工具。
+
+### 学习资源
+* **在线课程：** <br>
+[线性代数精讲课程 by框框老师](https://www.bilibili.com/video/BV1eY4y1W7Gd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
+[Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+* **我的笔记：** [线性代数笔记](/files/)
+
