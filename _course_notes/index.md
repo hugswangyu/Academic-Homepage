@@ -7,7 +7,7 @@ author_profile: true
 
 ## Welcome to my course notes!
 
-Here, I have compiled my study notes and recommended online courses for the foundational and core compulsory courses in Electronic Information Engineering.
+This section includes my study notes and recommended online courses for the foundational and core compulsory courses in Electronic Information Engineering.
 
 * [**Freshman Year**]({{ '/course-notes/freshman/' | relative_url }})
     * **Course List：**
