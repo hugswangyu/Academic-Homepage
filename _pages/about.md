@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second graduate student from Nanjing University of Information Science and Technology(NUIST),majoring in Electronic Information Engineering.I will attend the summer school of Nanyang Technological University(NTU)as an exchange student,and the course I will take is Data Science and Artificial Intelligence.(2025.07)sponsored by JESIE.
-
+I am currently a third-year undergraduate student at Nanjing University of Information Science & Technology (NUIST), majoring in Electronic Information Engineering. In July 2025, I attended a summer school program at Nanyang Technological University (NTU) as an exchange student, where I took the course Data Science and Artificial Intelligence, sponsored by JESIE. This summer, I will participate in the Mitacs Globalink Research Internship program at Carleton University, Canada, sponsored by CSC and Mitacs.
  
 About My Study Resources
 ======
-You can find handwritten study notes for the compulsory and core courses of the Electronic Information Engineering major from freshman to sophomore year. For reference and learning exchange only.You can also find some information about communication engineering, including books and codes.
-
+You can find handwritten study notes for the compulsory and core courses of the Electronic Information Engineering major from freshman to junior year. These materials are for reference and learning exchange only. You can also find some information related to Communication Engineering, including books and codes.
