@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "大二课程"
+title: "Sophomore Year"
 permalink: /course-notes/sophomore/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## 模拟电子技术
+## 模拟电子技术 Analog Electronics
 
 ### 概述
 模拟电子技术是电子工程的基石之一，深入理解运算放大器、晶体管的工作原理以及各种滤波器的设计方法对于构建稳定的电子系统至关重要。
@@ -22,7 +22,7 @@ author_profile: true
 
 ---
 
-## 数字电子技术
+## 数字电子技术 Digital Electronics
 
 ### 概述
 数字电子技术是现代电子系统的基础，主要研究数字电路的分析与设计，包括逻辑门、组合逻辑电路、时序逻辑电路以及存储器等。
@@ -33,7 +33,7 @@ author_profile: true
 
 ---
 
-## 复变函数与积分变换
+## 复变函数与积分变换 Complex Variables and Integral Transforms
 
 ### 概述
 复变函数是数学分析的重要分支，研究复数域上的函数理论，包括复数运算、复变函数的导数与积分、留数定理及其应用等。
@@ -44,7 +44,7 @@ author_profile: true
 
 ---
 
-## 信号与系统
+## 信号与系统 Signals and Systems
 
 ### 概述
 信号与系统是电子信息工程领域的核心基础课程，主要研究连续时间信号和离散时间信号的分析与处理，以及线性时不变系统的特性。内容涵盖傅里叶变换、拉普拉斯变换、Z变换、卷积以及系统分析方法等。
@@ -56,7 +56,7 @@ author_profile: true
 
 ---
   
-## 电磁场与电磁波
+## 电磁场与电磁波 Electromagnetic Fields and Waves
 
 ### 概述
 本课程探讨电场、磁场以及电磁波的基本理论和应用，包括麦克斯韦方程组、波的传播、反射与折射等，是通信和微波技术的基础。
@@ -69,7 +69,7 @@ author_profile: true
 
 ---
 
-## 微机原理与单片机技术
+## 微机原理与单片机技术 Microcomputer Principles and Microcontroller Technology
 
 ### 概述
 本课程介绍微型计算机的组成、工作原理、指令系统及接口技术，并深入探讨单片机的结构、编程和应用开发。
