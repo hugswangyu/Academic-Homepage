@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 
-## 高等数学
+## 高等数学 Advanced Mathematics
 
 ### 概述
 高等数学是理工科的基础课程，涵盖了极限、导数、积分、微分方程等核心概念。它为后续专业课程的学习打下了坚实的数学基础。
@@ -25,7 +25,7 @@ author_profile: true
 
 ---
 
-## 概率论与数理统计
+## 概率论与数理统计 Probability Theory and Mathematical Statistics
 
 ### 概述
 概率论是理工科的基础课程，涵盖了概率计算和统计学初步的知识。为后续专业课程的学习打下了坚实的数学基础。
@@ -40,7 +40,7 @@ author_profile: true
 
 ---
 
-## 离散数学 
+## 离散数学 Discrete Mathematics
 
 ### 概述
 离散数学是计算机科学的基础，涉及集合论、图论、数理逻辑、组合数学等内容。它培养了严密的逻辑推理能力，对算法设计和分析至关重要。
@@ -51,7 +51,7 @@ author_profile: true
   
 ---
 
-## 电路分析基础 
+## 电路分析基础 Fundamentals of Circuit Analysis
 
 ### 概述
 本课程介绍直流和交流电路的基本原理、分析方法，包括欧姆定律、基尔霍夫定律、节点分析、网孔分析以及暂态响应等。
@@ -64,7 +64,7 @@ author_profile: true
 
 ---
 
-## 大学物理 
+## 大学物理 College Physics
 
 ### 概述
 大学物理通常分为力学、热学、电磁学、光学和近代物理等部分。
