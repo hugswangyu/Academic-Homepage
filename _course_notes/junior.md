@@ -18,7 +18,7 @@ This section includes my course notes and recommended online learning resources 
 ### 学习资源
 
 * **在线课程：** <br>
-[DSP数字信号处理（超浓缩版 by讲信号与系统的潘老师](https://www.bilibili.com/video/BV127411M7BU/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
+[DSP数字信号处理（超浓缩版) by讲信号与系统的潘老师](https://www.bilibili.com/video/BV127411M7BU/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
 [数字信号处理 2023年秋 by张颢](https://www.bilibili.com/video/BV1B4421U79k/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** <br>
 [数字信号处理笔记](/files/Digital-Signal-Processing-Notes.pdf) <br>
