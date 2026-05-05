@@ -75,7 +75,7 @@ This section includes my course notes and recommended online learning resources 
 
 ---
 
-## 线性代数 College Physics
+## 线性代数 Linear Algebra
 
 ### 概述
 线性代数是理工科核心基础课程，涵盖矩阵运算、行列式、向量空间、线性方程组、特征值与特征向量、二次型等核心内容，是数字信号处理、通信原理、机器学习等后续专业课程的重要数学支撑，也是工程计算、数据分析的必备工具。
