@@ -12,15 +12,6 @@ This site serves as my academic portfolio, featuring:
 - **Books & Codes** — communication engineering resources
 - **CV** — education and experience
 
-## Run Locally
-
-```bash
-bundle install
-bundle exec jekyll serve -l -H localhost
-```
-
-Then visit `http://localhost:4000`.
-
 ## Template
 
 This site is based on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, originally forked from the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme by Michael Rose. Academic Pages is maintained by [Robert Zupko](https://github.com/rjzupkoii) and contributors.
