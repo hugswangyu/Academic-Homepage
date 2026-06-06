@@ -11,8 +11,8 @@ locale                  : "en-US"
 site_theme              : "default"
 title                   : "Yu Wang/Personal Homepage"
 title_separator         : "-"
-name                    : &name "Your Name"
-description             : &description "personal description"
+name                    : &name "Yu Wang"
+description             : &description "Academic homepage of Yu Wang"
 url                     : https://hugswangyu.github.io/
 baseurl                 : "" # the subpath of your site, e.g. "/blog"
 repository              : "hugswangyu/hugswangyu.github.io" # If you forked from academicpages, keep this. Otherwise, change to your_username/your_repo_name
@@ -320,7 +320,7 @@ sass:
 permalink: /:categories/:title/ # This general permalink might be overridden by collection-specific permalinks or individual page permalinks
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
