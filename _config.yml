@@ -15,7 +15,7 @@ name                    : &name "Your Name"
 description             : &description "personal description"
 url                     : https://hugswangyu.github.io/
 baseurl                 : "" # the subpath of your site, e.g. "/blog"
-repository              : "academicpages/academicpages.github.io" # If you forked from academicpages, keep this. Otherwise, change to your_username/your_repo_name
+repository              : "hugswangyu/hugswangyu.github.io" # If you forked from academicpages, keep this. Otherwise, change to your_username/your_repo_name
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
