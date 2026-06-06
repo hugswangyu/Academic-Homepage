@@ -12,6 +12,14 @@ This site serves as my academic portfolio, featuring:
 - **Books & Codes** — communication engineering resources
 - **CV** — education and experience
 
+## Run Locally
+
+```bash
+bundle install
+bundle exec jekyll serve -l -H localhost
+```
+
+Then visit `http://localhost:4000`.
 
 ## Template
 
